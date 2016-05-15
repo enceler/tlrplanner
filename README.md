@@ -1,2 +1,2 @@
 # tlrplanner
-Read
+See: http://enceler.github.io/tlrplanner/
